@@ -45,6 +45,10 @@ generates the final leaderboard submission:
 each row corresponds to one test caption and its predicted image-space embedding.
 
 ### usage
+python -m venv .venv
+source .venv/bin/activate
+
+pip install -r requirements.txt
 
 run the entire pipeline:
 
