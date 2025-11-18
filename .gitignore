@@ -1,0 +1,24 @@
+# os / editor cruft
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.swp
+.vscode/
+.idea/
+
+# python env
+.venv/
+env/
+venv/
+
+# data and challenge artifacts
+data/*.npz
+data/*.npy
+data/*.pt
+artifacts/
+logs/
+checkpoints/
+
+# notebooks
+*.ipynb_checkpoints/
