@@ -82,8 +82,8 @@ CFG = NS(
         OUT_DIR     = "artifacts/test_pred",
         CSV_NAME    = "submission.csv",
 
-        TEST_NPZ    = "data/test.clean.npz",
-        TEST_IDS_CSV= "data/captions.txt",
+        TEST_NPZ    = "data/test/test/test.clean.npz",
+        TEST_IDS_CSV= "data/test/test/captions.txt",
 
         # mode 1: explicit affine mapping using W + bias
         USE_AFFINE_WB = False,
