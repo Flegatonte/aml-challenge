@@ -46,6 +46,17 @@ each row corresponds to one test caption and its predicted image-space embedding
 
 ### usage
 
+### setup
+git clone https://github.com/Flegatonte/aml-challenge.git
+cd aml-challenge
+
+python -m venv .venv
+source .venv/bin/activate
+
+pip install -r requirements.txt
+
+### data download
+
 the dataset must not be stored in the repo due to size limits, you must download it via the kaggle api.
 
 1. configure kaggle (first time only)
@@ -64,15 +75,6 @@ this automatically populates:
 data/train.npz
 data/test.clean.npz
 data/captions.txt
-
-### setup
-git clone https://github.com/Flegatonte/aml-challenge.git
-cd aml-challenge
-
-python -m venv .venv
-source .venv/bin/activate
-
-pip install -r requirements.txt
 
 ### running the pipeline
 run the full workflow (baseline → training → submission)
