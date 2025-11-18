@@ -45,11 +45,44 @@ generates the final leaderboard submission:
 each row corresponds to one test caption and its predicted image-space embedding.
 
 ### usage
+
+the dataset must not be stored in the repo due to size limits, you must download it via the kaggle api.
+
+1. configure kaggle (first time only)
+
+    place your kaggle token here:
+
+    ~/.kaggle/kaggle.json
+    chmod 600 ~/.kaggle/kaggle.json
+
+2. run the download script
+
+    ./scripts/download_data.sh
+
+this automatically populates:
+
+data/train.npz
+data/test.clean.npz
+data/test_captions.txt
+
+### setup
+git clone https://github.com/Flegatonte/aml-challenge.git
+cd aml-challenge
+
 python -m venv .venv
 source .venv/bin/activate
 
 pip install -r requirements.txt
 
-run the entire pipeline:
-
+### running the pipeline
+run the full workflow (baseline → training → submission)
+    
     python main.py
+
+run individual steps
+
+    python main.py --skip-step1     # skip baseline
+    python main.py --skip-step2     # skip training
+    python main.py --skip-step3     # skip submission generation
+
+
