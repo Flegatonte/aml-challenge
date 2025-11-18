@@ -15,9 +15,9 @@ CFG = NS(
     SEED = 42,  # fixed seed for full reproducibility across numpy, sklearn, torch
 
     PATHS = NS(
-        TRAIN_NPZ     = "data/train/train.npz",          # training embeddings (text + images)
-        TEST_NPZ      = "data/test/test.clean.npz",     # test-time text embeddings
-        TEST_IDS_CSV  = "data/test/captions.txt",  # official id list for leaderboard alignment
+        TRAIN_NPZ     = "data/train/train/train.npz",          # training embeddings (text + images)
+        TEST_NPZ      = "data/test/test/test.clean.npz",     # test-time text embeddings
+        TEST_IDS_CSV  = "data/test/test/captions.txt",  # official id list for leaderboard alignment
         ARTIFACTS     = "artifacts",               # root folder for all outputs
     ),
 

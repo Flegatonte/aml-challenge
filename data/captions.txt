@@ -1,0 +1,1501 @@
+id,caption
+1,A man with sunglasses on puts a chip in his mouth .
+2,Two dogs are running through a grassy area near tall trees .
+3,A woman in a white apron and a man with a yellow shirt stand in front of a counter filled with meat .
+4,A little boy wearing blue shoveling sand on the beach .
+5,A crowd is gathered around a man watching a performance .
+6,Two man and women making coffee .
+7,The boy is doing a jump in the air on his bike .
+8,"""A baseball player is sliding into a base 
+9,"""Two teams playing against each other 
+10,Two young men talk together on an outdoor sidewalk on a dark night .
+11,"""A man is walking on a cobblestone street 
+12,Chefs standing on a busy street with their products .
+13,A small child in khaki shorts and a helmet rides a two-wheeled kick scooter .
+14,A man consumed by his surroundings .
+15,A person is kneeling between two horses
+16,A brightly dressed woman smiles and shows off her pink hoop .
+17,A young boy leans against a post with a striped flag .
+18,A young man at a bowling alley posing on the scoring machine .
+19,"""Two men in suits standing in front of a bus 
+20,A black dog runs in a yard while a woman observes
+21,A man jumping sideways in the ocean .
+22,A person walking by a window with the drapes closed .
+23,A helmeted BMX biker leaps into the air on his bike .
+24,The woman places a ball into the jumping dog 's mouth .
+25,Two solders are carrying multiple Christmas presents .
+26,a man on stage singing into a microphone .
+27,A shot haired woman in a white shirt giving a long-haired woman in a red shirt a manicure .
+28,A child wearing a red winter hat is standing in the snow holding a snow shovel with a red handle .
+29,a dog runs through the long grass .
+30,"""An all male choir and soloist are performing 
+31,A man sitting in the street with no shoes on .
+32,A man sitting on a bench with his bicycle leaning against a railing .
+33,a man standing on a street holding a basket besides his head
+34,A young child looking very excited about a Christmas gift .
+35,The dog is climbing out of the water with a stick .
+36,"""At a beach 
+37,An Asian woman in a misspelled t-shirt fans herself in the mid-afternoon sun while waiting for a bus in the city .
+38,Young ladies who are dancing a choreographed dance production .
+39,"""A man is on stage singing 
+40,This girl has got some skills and is showing them off by playing with fire !
+41,A dog carries a large stick in its mouth over the grass .
+42,Several men working on a motorcycle .
+43,"""Man donned in jeans and football jersey prepares a meal complete with mean and beer 
+44,trick or treaters are sitting on the side of a porch .
+45,A blond man with a leather jacket playing a guitar and singing .
+46,Several young people stand on a speeding motorboat with SCUBA gear .
+47,A boy is jumping on a bed .
+48,a lone rock climber in a harness climbing a huge rock wall .
+49,An old Ford passes through the street .
+50,A smiling bearded man wears a shirt with an orange peace sign
+51,"""Two scuba divers underwater 
+52,An older man speaking to two young boys .
+53,A woman repaints a room inside her apartment
+54,A woman kneels to take a photo of another woman in an open plaza .
+55,A man cleaning a table in somebody 's home with 3 other guys in the background cooking .
+56,Eight people are shown in the picture in snow gear seeming to be skiing .
+57,Waitress working in a restaurant cutting watermelon .
+58,A baby sticking out his tonge while looking at a spraying water fountain .
+59,"""A man in a military uniform stands next to what appears to be a military k-9 dog 
+60,"""Some firemen have blocked off the street 
+61,Several children running across a field of white sand .
+62,Young people standing together while dining beer and smoking cigarettes .
+63,A young girl in a yellow shirt with a falconer 's glove and hawk perched on it is being assisted by a man with a ball cap and microphone in one hand .
+64,guys looking at a camera in store
+65,A group of people are standing around a red firetruck .
+66,Three hockey players struggle with the puck in front of the goal .
+67,Two uniformed men on rollerblades talk to a hooded man in an alley .
+68,Four young kids playing on a porch while a man stands on the steps .
+69,A woman in a polka dot shirt washing colorful clothes in a wide flat pan .
+70,"""Happy 
+71,The white and brown-spotted dog is walking through shallow water .
+72,Brown and white dog running through a grassy field .
+73,Sparks fly as a man welds steel .
+74,A bride and groom walk up a stone staircase in front of a stone building .
+75,A ceremony with one man speaking and another man adjusting the robes on other person whose faces is partially covered being held in a mosque with many observers .
+76,A young boy is looking through binoculars at a playground .
+77,"""three men stand on stage in tuxedos 
+78,A black dog swimming .
+79,People walking toward a beach .
+80,A man and woman spray painting a wall with art .
+81,A brunette boy and girl smile for the camera while drawing faces on a white balloon .
+82,A blond baby girl in green is walking and holding a box .
+83,People boating on a lake with the sun through the clouds in the distance .
+84,A woman painting someone 's nails with red nail polish .
+85,Two men are standing and smiling .
+86,An overweight women prepares skins a pineapple .
+87,A young boy does a handstand on his canoe .
+88,A young man in a red uniform kicking a soccer ball .
+89,A person is jumping on a snowboard on a snowy hill with several trees in the background
+90,A man runs with his dog as people watch from nearby tents .
+91,Three women out for the evening in a big city .
+92,This picture is of a man and a woman cooking .
+93,A man weaving yellow yarn on wooden loom .
+94,Two girls and two men playing at the beach .
+95,"""One in a blue shirt using his cellphone 
+96,Man in a red shirt and pans jumping into a hay stack .
+97,A man is climbing a ladder while two women stand by to spot .
+98,"""Three men wearing shorts stand in the parking lot of a building labeled a """" factory . """
+99,Two ladies are reading through binders .
+100,A man wearing sunglasses is playing the guitar .
+101,Two trumpet players play in the city
+102,A boy in green Christmas pajamas is opening his present .
+103,A jockey wearing red rides a horse over a lush green grassy area .
+104,A gray-haired man singing in a crowd and playing an acoustic guitar .
+105,A group of people are walking down a road .
+106,A lacrosse game features two players in blue and orange playing for a goal .
+107,Five backpackers hiking along a rocky slope .
+108,An extreme biker cuts a corner in the forest .
+109,A young lady at a park grilling chicken .
+110,Four people group hugging .
+111,A woman bending over backwards .
+112,A little boy holds a decorated cardboard box on his head .
+113,A long-haired young man skateboarding on the rails on a cloudy day .
+114,Two black and brown dogs are running through a field .
+115,A woman in a brilliant red dress participates in a military ceremony .
+116,two men sit at a encripted stone in the mountains .
+117,A motorbike jumping a pole .
+118,A policeman is standing outside a church .
+119,The black dog wearing a red collar shakes water off .
+120,Players on a soccer field performing for the crowd .
+121,A woman holds a child as the look at a fish aquarium .
+122,"""One man wearing a white shirt is talking enthusiastically to two men 
+123,People are waiting for a train at the subway .
+124,A woman on the floor covered in cake .
+125,A man being pushed in a wheelchair through a library .
+126,Man in a black hat and green jacket .
+127,Children are under a large fountain in the city .
+128,A black dog jumping through high snow .
+129,A man in a light blue sweatshirt walks down a dirt path .
+130,A couple attending an indoor business event are speaking with a representative in a nice suit .
+131,A man in a plaid shirt plays a guitar in front of a microphone .
+132,A person riding in the back of one vehicle is looking down the road towards a yellow truck .
+133,A man is flexing his biceps while standing on a rooftop with multiple chimneys in the background .
+134,A group of young people stand on top of steps .
+135,A group of people at a protest to stop the building of the Kingsworth coal power plant .
+136,A little girl in pink boots runs down the street .
+137,A woman cutting a brown cake .
+138,A few people walking down a walkway .
+139,A crowd of people gathered in a public place outdoors sitting at picnic tables .
+140,A young man is gaining power to hit a punching bag as his peers watch from behind him .
+141,People and camels at a beach .
+142,A man and a woman watch two dogs .
+143,A man in a gray t-shirt standing in front of a snow-covered mountain .
+144,People wearing peacock uniforms who are about to perform a dance of some kind .
+145,"""A man 
+146,A girl wearing a blue top sitting on rocks by the water .
+147,The little boy in the dress shirt sits while the two little girls talk .
+148,A man with long hair plays a guitar .
+149,Two people making music with a guitar and keyboard .
+150,A hispanic fruit market with many different fruits and vegetables in view on a city street with a man passing the store dressed in dark pants and a hoodie .
+151,An artist posing with his work
+152,A young girl wearing a pink hat swinging on a swing set .
+153,"""Three people 
+154,A smiling child is swinging on a swing .
+155,A black dog splashes in the water .
+156,Two dogs both have the same stick in their mouth while they are swimming .
+157,Two young women being to cross the street as a yellow school bus passes .
+158,A young man rides a self built bicycle across the street .
+159,Two dogs playing outside .
+160,Blond-haired male and female walking in front of Hello Berlin .
+161,A small boat carrying at least one passenger floats in the water near a dock around sunset .
+162,"""A group of young women 
+163,A little boy in denim overalls slides down an orange slide .
+164,"""Two men support a third 
+165,A large man in a red shirt is struggling to ride his bike past a shop that sells sweets .
+166,A woman in a blue shirt and jeans is throwing something away in a dumpster .
+167,A ballerina on a city street with a dark gate in the background holding a balloon .
+168,The boy in the red and white suit is on a skateboard .
+169,A little girl wearing a pink sundress and a big smile with blond-hair strapped on the carousel horse with an orange seat belt taking a ride with Nemo and the crowd in the background
+170,Three women are gathered around a table looking at items .
+171,A boy plays with a foam noodle toy by a pool .
+172,Many people protest as they walk down the street .
+173,A woman sitting and getting a haircut by another woman .
+174,Two women stand in a kitchen and wipe down trays
+175,"""Outside a mobile home 
+176,A man with a black backpack walks down a road with water on either side .
+177,Two warmly dressed small children are looking at an object together .
+178,Young girl in black pant and a white shirt stands in front of water performing a swan like ballerina movement .
+179,Several men in fluorescent pinnies work on a structure shrouded in a green veil while a cherry picker truck hauls material .
+180,Photographer captures his shadow as he photographs young boys mingling on the lawn .
+181,Two people at the top of a beach side cliff .
+182,A little boy with red-hair is watching a model train on the tracks .
+183,"""There is a man 
+184,a black dog enjoys an ice cream cone .
+185,"""At a outdoor stage 
+186,A man jumps off a rock into the water
+187,Someones getting their nails painted red .
+188,Men standing on platforms attached to vertical logs with saws .
+189,A public speaker discussing what needs to be changed .
+190,The two men are playing chess in the park .
+191,"""Two jockeys 
+192,"""A woman playing tennis 
+193,A guy and a girl talking by the grocery aisle .
+194,A band playing a gig in a club .
+195,Three girls are sitting cross-legged on a floor .
+196,Two boys in a wooded area are placing leaves in a clear viewing container .
+197,"""People wearing hats are looking at something 
+198,"""A motocross rider 
+199,A very busy walkway with a man directing .
+200,"""A little girl wearing a pink 
+201,A guy pushes cart full of water in bags on the travelator .
+202,"""There is a large gathering of people 
+203,Running in the Olympics .
+204,Many people shopping in a department store .
+205,A person is walking down the street holding up his hand hoping the person he 's on the phone with can see him .
+206,A man in white flees men dressed as law enforcement agents .
+207,People gather around a pile of blankets .
+208,A dark-haired girl standing in front of a performing band .
+209,Young man sitting down eating salad .
+210,A group of people and a dog sitting on concrete bleachers .
+211,A person sitting on chair in front of a crowd .
+212,People in yellow shirts ride smile as they ride exercise bikes .
+213,A woman and two men wearing black jackets .
+214,A little league baseball player prepares to run after he hits the ball .
+215,There is a large crowd lined up along either side of this road .
+216,Construction workers work with a backhoe and shovels near a snow fence .
+217,People sitting at a dining table raise their glasses in a toast .
+218,A woman is standing next to a car with her hand in a bag .
+219,"""A man in a suit 
+220,man cooking with a pan in a commercial kitchen .
+221,This is a ferry train in a busy city .
+222,A girl dressed in pink runs from the ocean to the beach .
+223,"""A food vendor stands behind a display of bins of several types of nuts 
+224,Businessman making his way with his bags .
+225,A small boy plays on a blue toy structure .
+226,A group of young men have finished their drinks while sitting at a table in a restaurant .
+227,"""Three smiling women 
+228,People are leaving the Lincoln Center Theater after a production of Rodgers and Hammerstein 's South Pacific .
+229,An crowded oriental marketplace set in a narrow street .
+230,The woman is wearing a black hat with an American flag on it .
+231,A woman with a multicolored shirt and gray pants standing inside of a doorway smoking a cigarette .
+232,Dog catching Frisbee .
+233,A man in a red jacket is standing in front of a tall white building .
+234,Three workers out on the field playing .
+235,A man with black and gray hear with glasses lies down next to a young boy while both are smiling at each other .
+236,A skinny brown dog walks across a large piece of fallen tree .
+237,A girl and two boys are playing in water .
+238,A group of people put two of their fingers on a Frisbee .
+239,People walking in front of heavily painted wall .
+240,Pedestrians busy walking and shopping .
+241,people walking down a sidewalk next to water .
+242,the scientists are experiments
+243,"""A crowded escalator is filled with people wearing business suits 
+244,A man is sitting on a stage playing a violin in an empty stadium .
+245,A muscular runner takes place in a marathon in the rain while spectators watch from under umbrellas .
+246,A musician on the curb side displaying his talent publicly .
+247,A group of girls is waiting to catch another girl that is doing a somersault in the air .
+248,A child in a red shirt plays with fireworks .
+249,A man in a fleece jacket works with a piece of tin .
+250,A woman opens a gift while standing in a dining room that has been festively decorated : her face is obstructed by one of the decorations .
+251,Children stand and wait for the train .
+252,A young boy plays with a machine gun on a jeep .
+253,A man walks past weathered posters on urban street .
+254,A man is crouched down on a skateboard and is being pulled along in the water .
+255,Two men in bright orange service uniforms lean on a railing of an overpass .
+256,A woman is standing in front of a display that has a model and numerous pairs of shoes .
+257,"""A man sitting under an umbrella 
+258,"""The blue jersey softball player is sliding on to base kicking up sand 
+259,A man prepares morning coffee in a steel mug .
+260,Child with curly hair laying in a field holding a dandelion .
+261,"""Two people are walking their dogs on the beach 
+262,A male and female inside reading and conversing
+263,A multicolor dog in a red collar crouching on the grass .
+264,Little boy with dark hair chasing a pigeon flying through the air .
+265,People cross the street on a sunny day in the city .
+266,Two men are sitting in their seats with a girl between them .
+267,A man striping a parking lot .
+268,A man wearing a black hat is smiling on a street as other men and woman walk past .
+269,Two homeless men dressed in gray sit against a wall with a sleeping dog on a purple leash .
+270,maintenance or construction workers on a work site on a busy city street
+271,Two young men and two young women wait for a bus on a Japanese street
+272,A young man seated on a metal framed structure smiles as he tugs slightly on a nylon tarp .
+273,A woman in a gingham sari hold a plate of fire .
+274,Two woman are walking by discussing something seriously .
+275,A horse jumps a fence in a show jumping competeition .
+276,A young boy standing next to a woman is helping her cook .
+277,A toddler wears a red holiday jumper while clutching three Pixar toys .
+278,Young female basketball player plans her route to the net .
+279,A group of runners in a race occupy a street .
+280,Child wearing a Green Bay coat carrying a red sled behind a child in a green and black coat .
+281,A group of people in red shirts and white pants are walking single file down a dirt path in the middle of a field .
+282,A man standing in front of the Eiffel Tower getting his photo taken
+283,A man attending to the front wheel of his motorcycle .
+284,A man wearing a baseball mitt is in a field leaning to his side .
+285,Children playing baseball outside a white pillared palace
+286,"""Two kids ride their bikes by the ocean 
+287,Two woman wearing body paint ride bikes through a crowd .
+288,A man applying bait to his fishing pole .
+289,A group of people standing in front of a food stamp buying food .
+290,Three firefighters duck from fire and smoke coming from a building .
+291,A man parachuting down a snowy mountain .
+292,"""A little kid 
+293,A man is cleaning while his young daughter watches .
+294,"""A man pushing a baby stroller at the beach 
+295,"""a woman and a young boy gardening 
+296,Two men in a room with yellow empty beds .
+297,Two people look at two red motorcycles in a place where there are religious murals on the wall .
+298,A curly redheaded girl with a large headband in her hair .
+299,Older man works on model airplane while woman stands by .
+300,A girl with a yellow EL Dorado Elementary School shirt on showing the size of something using her fingers .
+301,Old man dozing in hospital bed .
+302,There is a group of people in winter coats are gather in front of a large building .
+303,A group of men gather and play instruments .
+304,A young lady sitting outside a sporting event looking at her phone .
+305,Boys playing tag on the lake .
+306,A man is passed out on a park bench .
+307,"""Three men are staring at the big 
+308,"""A city street has parked cards on one side of it and there are people walking in the street 
+309,A girl flies through the air as a man stands with his arms outstretched .
+310,A brown dog shakes while standing in the water near a yellow ball .
+311,A man at the top of a mountain in a large mountain range .
+312,A woman and a man dresses up and smiling with a bouquet of flowers between them .
+313,Two law enforcement officers are looking into the trunk of a car which is blocked off with yellow police tape .
+314,A boy wearing a blue wetsuit rides on a blue surfboard .
+315,A man in a suit and tie walking .
+316,A person dressed in red and gray is skiing down a snowy slope .
+317,"""A man wearing a black hat 
+318,A tan woman with a black scarf and a long floral-print dress in sitting on a stone and smiling with her hands in her lap .
+319,Two girls smile at one another as the loud crowd carries on with the festivities .
+320,A brown dog plays with a toy bat hanging out its mouth .
+321,A young boy jumps into water .
+322,People looking at a birthday cake with candles lit trying to blow them out .
+323,A group of five men are walking along some snowy railroad tracks .
+324,A boy is playing with a screwdriver .
+325,A family enjoying a nice summer day at the pool .
+326,a woman is looking into a microscope sitting at a desk .
+327,A group of men and women in swimwear sit on a beach in yoga poses .
+328,"""Two women 
+329,A snowboarder is performing a stunt in front of a crowd of spectators .
+330,People playing instruments on stage in front of blue banners .
+331,Two dogs wrestle outdoors .
+332,A crowd of people in the street at night .
+333,Some people standing near a small train ride .
+334,A cook slicing some herbs on a wood cutting board .
+335,A tan and black dog runs over a green field with its mouth open .
+336,The guy with a green long-sleeved shirt is inside a recording studio .
+337,A dog with a stick follows another dog through the water .
+338,Workers standing in a work zone .
+339,A man is falling into waves .
+340,A woman is standing behind a table
+341,Two women walking down the street holding each other with their arms .
+342,"""Three men are dress up with some colors of blue 
+343,"""A man is driving a piece of heavy machinery 
+344,A person skis down a snowy hill .
+345,A woman and man are next to each other blowing bubbles .
+346,A man in a shirt sitting on playground equipment .
+347,Two men compete in a karate tournament .
+348,Five people are working on bicycles with a large graffiti mural behind them .
+349,A group of people talking among themselves .
+350,An older man wearing a polo shirt walking down a street lined with stores and green trees as cars pass by .
+351,Many friendly riders in a bus enjoying each others company .
+352,"""A man in glasses 
+353,In a outdoor market two men shovel snow and slush out of the path .
+354,A group of toddlers kneeling on the floor mimicking one of the adults with their hands stretched upwards .
+355,A man is smiling whilst sitting inside a red racing car .
+356,A woman wearing a green tank top and unusual necklace at a table in a restaurant .
+357,A man in a yellow shirt is pushing a cart with items on it .
+358,A man walking down the street is passing a brick door .
+359,"""A dog runs holding a yellow dog toy in fall 
+360,A young girl around 10 years old hitting what appears to be a tennis ball with a golf club from a tee .
+361,Two girls at a Smart car display .
+362,Two potters are making different things in some sort of art making contest .
+363,"""cyclists lean into a turn 
+364,A man wears a scar-crow mask from the movie Batman .
+365,A shopping court in a city somewhere .
+366,"""A man appears to be balancing on a bicycle on top of some sort of mechanism while """" swallowing """" a sword shaped balloon ."""
+367,A male baseball player for the baseball team The Indians prepares to catch a ball .
+368,"""A woman dressed up in green 
+369,Three women with headscarves and bright clothing take a ride in a rickshaw .
+370,One person is standing and one person is sitting in a canoe on open water .
+371,Man in a green shirt holding his shoes walking on the sand .
+372,women wearing a pink shirt selling donuts in a park .
+373,Man in white shirt looks at a sign on a window .
+374,Two Asian women in high heels walk down a dirt street outdoors .
+375,A man in a white t-shirt and jeans is using a wrench .
+376,A woman walks up a path that cuts through cultivated plots while balancing straw on her head .
+377,A woman with headphones holding a pen and paper while her feet are propped up on fence .
+378,A black and brown dog attempts to catch a red ball in its mouth .
+379,In a crowded concert a man in white is approaching the main singer who is wearing a yellow shirt .
+380,Women in long dresses walk along a beach .
+381,"""One red-haired woman is selling fruit cups 
+382,A person in a black jacket and light blue pants appears in the air with a custom snowboard .
+383,One person is emptying junk into a garbage bag while another person holds the bag open .
+384,A girl peers into a window .
+385,A group of people are sitting at a table with flags hanging above them .
+386,A woman with a shawl on her head is standing in front of a supermarket observing the items out front .
+387,A pale tan dog romps through a wooded area
+388,A group of children buying ice cream from a truck at night .
+389,A man in a white striped shirt is sleeping on a red velvet couch .
+390,several troubled people sitting in the back of a truck
+391,A little boy is playing on a wet stone surface .
+392,A man is on a laptop indoors saying something while a boy is looking at his computer .
+393,A group of people sitting in chairs watching something .
+394,A little boy playing with some sort of pipe .
+395,a football player wearing an orange jersey holding a football
+396,A happy little boy bounces down a large balloon slide wearing a red t-shirt and white socks .
+397,three boys play football in the grass .
+398,A white dog running along side a river
+399,A woman in blue and a man in red are about to kiss with foliage nearby .
+400,The two boys are having fun playing in the mud .
+401,A ferry with a few passengers sailing to port .
+402,A young woman assembles a wooden cabinet on the floor .
+403,A pretty young woman with brown hair playing a violin
+404,"""A older man wearing a pink shirt and sunglasses sits 
+405,A man in a white shirt black tie looks out of the elevator shaft of a parking garage .
+406,A couple crossing the street .
+407,Several people which appear to be friends stopping to take a picture .
+408,A child swims underwater in a pool .
+409,A young girl in her early twenties is laughing .
+410,A man in a brown jacket is looking at art .
+411,A black and white dog is performing tricks on a course .
+412,A man in a blue surgical outfit is standing behind a bunch of medical machines .
+413,The small child in green crocks leans over to look inside a grate .
+414,Girls in knee pads and rollerskates stand together .
+415,A field with some Scottish marching bands and many spectators sitting on the stadium behind .
+416,A woman in an orange shirt is playing with a Hula Hoop .
+417,Baby sitting in chair with stuffed SpongeBob doll .
+418,A person is sitting in a green kayak in the middle of a pond that is surrounded by trees .
+419,A young girl in a pink dress dances as a woman blows bubbles .
+420,"""A man in blue jeans rests on his back on a rocky ground 
+421,A white dune buggy jumping across a grass and dirt terrain .
+422,A small boy runs past a fire in a field .
+423,A woman in an orange jersey is holding a football and being pursued by a woman in a blue t-shirt on a field .
+424,Man singing and playing the guitar in a suit .
+425,A bicycle with a basket is on a sidewalk .
+426,Two young children with red dots are their foreheads are both wearing yellow shirts and red shorts and one is riding a red tricycle .
+427,A man playing the violin while he reads his musical notes .
+428,The man walks through a field carrying bundles of dead birds .
+429,A woman is watching as a guy is scooping ice cream from a freezer .
+430,Two little children and one is playing with a slinky .
+431,A guy standing and talking in front of a group of people .
+432,A young child swinging outside wearing a yellow tank top .
+433,Person with a blue and black suit is surfing .
+434,A man runs shoeless on green lawn
+435,"""There are pink artificial tulips in a eatery 
+436,A dog stands on his hind legs for a lady in purple .
+437,"""Little boy in black jacket 
+438,An elderly woman crafts a design on a loom .
+439,A male teacher talks to his very young female music students as they hold their instruments and look at their sheet music .
+440,A big group of people sitting in the dark .
+441,Two German sheperds snarling at each other .
+442,A woman holding a saxophone looks away from a building on a bright day .
+443,Four men and a woman are singing a song at an event .
+444,A man cooks outside on a grill .
+445,a blond-haired girl in an Obama t-shirt is smiling at the camera .
+446,Girls playing tug-of-war in mud and water .
+447,An intersection with a single person in the center of the intersection .
+448,A young girl stands on some rocks staring at the ocean .
+449,Some laborers in smocks sort some rubbish while diverting their eyes .
+450,A man is skateboarding near a body of water .
+451,three men playing old drums .
+452,Some dogs running through the park .
+453,"""Two people are eating something strange 
+454,"""In a large crowd 
+455,Men and women with matching suits and dresses standing behind a young man singing .
+456,A group of three young adults stopped to pose for a picture outside a clothing shop .
+457,People looking at a painting of Cher .
+458,Man wearing blue shorts lathered up in public .
+459,A brown squirrel sitting on a branch with an acorn during the fall .
+460,a little girl is fishing wearing sunglasses
+461,A man is taking in the busy city during a night walk .
+462,jealous girl holding small microphone .
+463,man in purple shirt surrounded by others .
+464,A man wearing a white tank top is riding a red bike along a jump .
+465,A couple holds a sign that reads Teaching children for peace .
+466,A woman and child look at a window box filled with herbs .
+467,Two people dressed in red and white wait at the horse track with a horse .
+468,A brown dog leaps through the snow in a field .
+469,The man holds a light Sabre .
+470,Man on a pier looks at two dogs standing in shallow water .
+471,Several people sit on a bench watching traffic .
+472,Children sitting on a bench eating something out of a small cup .
+473,A man and a woman in pink shirts snack with children .
+474,"""A man sites on a motorbike 
+475,A man standing on a pole .
+476,"""A woman wearing a red helmet with a white star on it 
+477,A boy and his bike leaps into the air .
+478,Two women in their karate uniforms kick at one another .
+479,Several young people in life jackets are sitting on something floating in water .
+480,A group of women are sitting around tables .
+481,A mountain biker with number 060 on the bike covered in mud from riding downhill on a muddy track .
+482,A woman in red runs past a rainbow wall .
+483,People are walking on a crowded street .
+484,A group of cyclists at a race with their arms around each other .
+485,two women are playing badminton
+486,A woman in a red vest helps a child with a bathroom sink .
+487,3 young blond kids in life preservers jump on hay bales .
+488,"""An old man smiling at the camera in front of a rocky 
+489,There is a boy wearing jeans and a baseball cap jumping in the air .
+490,A motorcycle parked in a parking space next to a road by a hill .
+491,A group of people sitting on a dock in a yoga pose .
+492,A woman in a purple sweater is holding three bags on a street .
+493,Individuals in a terminal review transit information while one girl talks on her cellphone .
+494,Two football teams one team in white and green another team in yellow and black it looks as if a member of the yellow and black team has scored a touchdown .
+495,A young child wearing a pink coat is sitting and holding a shoe .
+496,Man walking by a corner market with graffiti .
+497,A man and two small children jumping up and down .
+498,Two babies sleeping in their highchairs .
+499,A woman in a plaid shirt is looking at a microscope at her desk .
+500,A man raises his hands from within a crowd of people .
+501,"""A baseball player wearing red 
+502,The three chefs dressed in white are preparing food in a kitchen
+503,two dogs run across dry ground .
+504,People jumping in sacks in a grassy area with trees .
+505,a woman wear a fancy dress and tiara on a beach
+506,A woman in a knitted cap is waiting for the subway .
+507,A woman wearing a red coat and striped pants is leaning towards a man wearing a black hat and smoking a cigarette .
+508,Girl posing with lab instruments in a laboratory .
+509,"""Two girls are sitting in their home and one of them is sitting on a chair 
+510,An African American boy peddles a bicycle in front of an elaborate gold gate .
+511,A Girl with long brown hair standing outside .
+512,An asian man in a camouflage jacket and another in a black jacket are filleting a fish on top of a bowl in a stainless steel tub .
+513,A white birds lands swiftly in the water .
+514,A group of people walk in front of a mountain .
+515,Children on a red and yellow swing set .
+516,a man sitting on a sidewalk playing a guitar .
+517,Two young men playing electric guitars in a grunge-type setting .
+518,People walk across a crosswalk .
+519,Two rows of dance students are practicing ballet moves against a pole in a studio .
+520,The man with a white beard rides a bike near a bus .
+521,A cyclist wearing a red and black jersey is competing in a race .
+522,Cheerleaders practice a routine while a few people look on .
+523,3 police are on skates in the city center .
+524,Two construction workmen wearing hard hats work on a window .
+525,A woman sitting outside at a table with food and refreshments .
+526,Little boy is at a trampoline place .
+527,A skateboarder wearing blue flannel is skating on a rock at a skate park .
+528,A mean looking dog is in the snow and showing his teeth .
+529,Two men wave from atop a piece of heavy machinery .
+530,A group of firemen battling a fire .
+531,A masked person in a fight stance .
+532,An elderly women dressed in pink and blue knits .
+533,Little dark hair child in a green top leaning against a countertop .
+534,A group of construction workers pose for a picture at their work site .
+535,Two little girls with long hair hang upside down from tire swings held in place by chains .
+536,"""A woman in a dress covered with stars and a fancy 
+537,A man and woman boxing in a park .
+538,A group of people are sitting below a concrete structure that overlooks a staircase .
+539,A baby laying on it 's back crying .
+540,A man holding a cellphone and a woman holding a shopping bag stand in front of a wall covered in street art .
+541,A bicyclist is drinking out of a bottle of water while riding .
+542,A group of kids hiking on a trail .
+543,A black man in a blue shirt hold his baby in a blue wrap .
+544,A child in a gray coat kicking a soccer ball .
+545,A bartender stands in front of a large wine collection .
+546,A person stands in a snowy area looking down .
+547,A woman is camping in the snow with pink flamingos around her tent .
+548,A man is standing outside a store looking in the window .
+549,A woman wearing a blue vest seems to be in a very messy area .
+550,"""An old woman with a purple shirt 
+551,Lots of people near a carnival .
+552,A blond man in a white shirt is smoking .
+553,Children are running on a grass field .
+554,"""The man is digging to find something important 
+555,Two people are walking past an industrial building .
+556,A band playing s song in front of a crowd .
+557,A girl stands on a gravel road as the sun sets .
+558,Woman in white dress holds dove while sitting in flowered tree .
+559,Clay pots are being molded by hand .
+560,People are walking by a bus in a city at dusk .
+561,The two woman smile for a tourist on vacation .
+562,A crowd is watching a lady give a demonstration of KitchenAid products with the help of an overhead mirror .
+563,Two females are wearing bikini tops and very short shorts while walking down the street .
+564,A sculptor in a teal sweater works on stone with a chisel and mallet .
+565,in the background there seems to be a lot of people around
+566,Young girl in pink dress plays with boy and a ball
+567,A woman wearing orange is putting a bowl into a dishwasher next to another woman that is reaching for dish soap .
+568,A dog bites someone 's finger .
+569,A large group of people are dancing at a party .
+570,Woman with sunglasses on her phone .
+571,A young boy in swim attire steps into the waves .
+572,A man wearing a hard hat is feeding brush into an industrial wood chipper .
+573,This is a clown at an elementary school .
+574,A woman is handing another woman a baby doll from a house .
+575,A boy wearing blue shorts is doing a back flip in the air under a tree .
+576,Two girls attempt to cross the street in a crowded Asian city .
+577,A woman has just hit a volleyball on a beach .
+578,A blond-haired girl is standing in playing position in front of a bowling lane .
+579,A cowgirl is lassoing a young white calf from the back of her brown horse .
+580,The man in the blue helmet is on a bike .
+581,A group of workers building something .
+582,"""Women on rollerblades and wearing protective gear 
+583,"""A group of children are standing in a classroom 
+584,"""A young dark-haired woman wearing a polka-dot top 
+585,A man on his bicycle crosses a city street .
+586,An offensive player running with a football while a football player tries to stop him during a football game .
+587,A man is giving some kind of magic presentation to a family .
+588,A skateboarder performs while others watch nearby .
+589,"""Two gray-haired individuals stand immediately behind a cluster of sheltered 
+590,A man is holding up a small poster with two people in it .
+591,A blond holding hands with a guy in the sand .
+592,An adult and a child playing in the water at the beach .
+593,A man is working outside using an electric saw and cutting wood .
+594,A guy with white pants and a black hat is juggling .
+595,A woman walking into the sun along a brick wall .
+596,"""Two men working at a construction site in Charlotte 
+597,A young man in a white shirt is showing off skateboard tricks .
+598,Two men are walking by a shop with an african outfit displayed in the window .
+599,A silhouette of a person snowboarding through a pile of snow .
+600,Two children with wakeboards are standing in deep water .
+601,A woman is on a carnival swing ride .
+602,Several people sitting on a bench watching their leashed dogs outside .
+603,Two men examine a bike wheel while a woman looks on from the porch .
+604,A baby smiling and playing .
+605,Three men are sitting around a bonfire at night with a table of drinks beside them .
+606,A dark dog jumps across the snow near the woods .
+607,Guy jumping off a pier into lake .
+608,a dog chained to a chair with a shirt and hat on .
+609,Group of people gathered in meeting like setting with food sitting in front of them .
+610,Two men working on a roof in yellow coats .
+611,A man jumps and poses for photographers lying on the ground .
+612,A crowd of people at an outdoor event .
+613,A man in New York City walking down the sidewalk .
+614,A group of buildings surrounding a street with people walking down it .
+615,A woman wearing a blue skirt is on a walkway looking at a body of water .
+616,A girl dressed in black and white with mime makeup stands in the middle of a street with a white umbrella and black top hat in her hand .
+617,A blond woman with a tattoo on her arm stands near a wall .
+618,"""A child 
+619,A doberman biting a blue ball on a grassy surface .
+620,A couple sitting on rocks looking out at the ocean .
+621,A man in a leather jacket is walking past advertisements .
+622,a man with long hair on stage playing an keyboard with a mic in front of him .
+623,A boy in an orange short plays in bubbles .
+624,"""Women in headwraps are gathered together 
+625,A Santa Cruz Fire Dept . engine outside a Gap store .
+626,A black dog is walking on the grass with a stick in its mouth .
+627,A woman standing behind a podium is speaking to people .
+628,"""An Asian man in a jacket 
+629,"""Pedestrians wearing black coats and jackets 
+630,a social event taking place in the grass .
+631,A couple of people sitting in front of a store window talking .
+632,Two men having a drink at a bar .
+633,A soccer player wearing a gray shirt and black pants throwing a soccer ball .
+634,A group of people watch a man in a white shirt speak .
+635,A gray-haired man and a blond younger woman listen to someone speak to them at an outside cafe .
+636,A little girl eating two cookies .
+637,"""A group of dancers with green shirts are all holding hands in a circle 
+638,"""A woman 
+639,Soccer players standing around during a stoppage for an injured player .
+640,A tan dog jumps across some water while another dog watches .
+641,Two women with their arms around each other smile .
+642,A young boy and girl are playing in a tunnel .
+643,A woman speaks to a child while she studies on the floor .
+644,A boy wearing a dirty uniform is playing baseball and hitting the ball with the bat inside of a fenced in area .
+645,A woman is getting her hair curled by someone else with a curling iron .
+646,A smiling lady in a green jacket at a public gathering .
+647,Several people standing around a boat which has sails shaped like a fish .
+648,A large Asian family gathers while seated on the floor to interact with a board apparatus .
+649,Man using ax to take down a structure .
+650,Two workers at a train station are cleaning an elevator .
+651,A male youth is grinding a rail on his skateboard .
+652,A man and a woman sit on a ledge in front of a window .
+653,The Man and the Woman are talking with one another each carrying a child on a stroller .
+654,A dog runs over the snow carrying a large stick in its mouth .
+655,One football player holding the ball is chased by another football player from the opposing team
+656,A lady is eating in a restaurant and a man is downstairs kneeling in the restaurants ' kitchen .
+657,A child playing with some yarn .
+658,A man smiling over his shoulder looking at the camera .
+659,A orange kitten biting the nose of a child .
+660,A man in a black shirt carrying a young child .
+661,A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment .
+662,A person jumps over a pool of water and their reflection is shown .
+663,A man with a plaid shirt and black hat sits on top of a white horse talking with another man wearing a black shirt and white cowboy hat sitting on a brown horse .
+664,a group of surfers catching a wave
+665,A performing wearing a white shirt is standing among a crowd of fans .
+666,Man in brown jacket extends his hand for water outside a blue building .
+667,A man gesticulates .
+668,A man a woman posing for a picture .
+669,Three men examining clothing in a clothing shop .
+670,There is a little girl in a pink shirt who is holding a red purse in her hand
+671,Rednecks throwing knives .
+672,A black dog jumping over a hurdle .
+673,A man about to step off the edge of a desert rock formation .
+674,A man in nice clothes is trying to balance on the end of the bulldozer bucket .
+675,A girl jumping over a jump rope .
+676,A lady rides her bike on a wooden deck at the beach .
+677,A young man with a brown shirt who is doing some work on his computer .
+678,"""People boarding a blue 
+679,There are several Asian children sitting cross legged on a concrete floor .
+680,A man in a raincoat puts his hand out while standing outside in front of a large advertisement on the side of a building .
+681,Some people are standing in the street .
+682,Customers standing in line at a food court .
+683,A group of ten men in yellow soccer uniforms pose for a picture .
+684,A group of five kids play happily in a yard .
+685,Several people participating in a marathon
+686,A bike mechanic explains the physics of a bike to a registered nurse .
+687,A blond fisherman standing in the water prepares his hook .
+688,A large basket of dumplings in an asian cafeteria setting .
+689,A man practicing martial arts in the yard .
+690,A man in a suit holds his cellphone in the air .
+691,Two people look at a sign while standing under a red umbrella .
+692,"""A blond woman appears to be on stage 
+693,A group of men and a woman are on the tennis court .
+694,A Man sweeping the cement ground .
+695,a woman in maroon is running by other people dressed in running clothes
+696,A little girl with a hat sits between a woman 's feet in the sand in front of a pair of colorful tents .
+697,A small boy is getting a ride on the shoulders of a man wearing a blue Labor Day shirt .
+698,"""A man with dreadlocks 
+699,"""A young woman stands outside in the snow 
+700,Long benchtops with microscopes have works at each station .
+701,A boy with a green cap and red jacket is helping a man with a brown coat that is laying on the floor .
+702,Crazy Christians praising the lord .
+703,Women in red outfits perform a cheer at the Beijing 2008 Olympics .
+704,Group of people in a cafe .
+705,A bearded man with horn-rimmed eyeglasses and an outlandish knit cap naps on a busy subway train .
+706,Two black dogs are diving into a pool to get a dog toy .
+707,A mother and her kids taking a family picture .
+708,A child in purple winter gear is on a red sled .
+709,The woman holding a black purse is smoking a cigarette .
+710,Large white dog jumps in the air to catch a black and white soccer ball .
+711,A man wearing blue jeans and a black shirt is talking to a man wearing white shorts while they are sitting outside in folding chairs on a patio .
+712,A shirtless boy in shorts is standing under a pier .
+713,Firemen standing on a lift .
+714,"""Several older men 
+715,A boy slides down a slide with his legs apart .
+716,A man falling off his surfboard on the top of a wave .
+717,A bald ma in a red shirt sleeping on a motorized scooter .
+718,Smiling woman sitting in snow .
+719,A dog runs on the beach .
+720,Two boys in an intense wrestling match .
+721,Two children play on the street outside an old building .
+722,"""A boy 
+723,A young man wearing a blue shirt is in midair with a bicycle
+724,A woman in blue shirt is holding a camera and being surrounded with bunch of people .
+725,A man in a white t-shirt is crossing the sidewalk .
+726,A black and brown dog jumps through the snow .
+727,A young girl in pink is playing with a pink toy on asphalt .
+728,A man standing next to some very small wooden carvings .
+729,A view of a sea of heads on a crowded train .
+730,Three women are dancing in red halter tops .
+731,A woman in a blue shirt is holding a piece of paper with the word dreams written on it .
+732,Men dressed in work gear assess a drainage area .
+733,Man looks down at two women cooking with a silly look on his face .
+734,"""Two slim 
+735,Rocky mountains .
+736,A woman is carrying a bowl full of fruit on her head near the ocean side .
+737,Water splashing up against something .
+738,A woman bidding farewell .
+739,A man with black hair is wearing a red and yellow shirt and has a yellow clown nose and face makeup on .
+740,The woman with the baby is drinking wine .
+741,A flock of birds fly up from the ground next to a building with a mural .
+742,A guy with a soda bends down as a woman stands on a bike .
+743,Two white dogs wearing muzzles jump over a whiteboard .
+744,A man in a red hat sings into a microphone .
+745,A person riding a dirt bike is surrounded by green grass and trees .
+746,A young man plucking on his guitar in a waiting room .
+747,A man with a brown Mohawk and white shirt is wrapping his arm .
+748,A man playing his guitar on a beautiful Sunday morning .
+749,Children are dressed in black and white costumes .
+750,Young men are attending a religious ceremony in a fancy building .
+751,A young child in a blue flowery dress walks along a sidewalk near a gated wall .
+752,A singer performs at a concert
+753,Young boys in their adolescence are running on the beach .
+754,"""A man catching a boy from falling in the water 
+755,These children are gathered together writing notes related to a field trip .
+756,People at a supermarket checkout .
+757,Three men are having lunch on the steps .
+758,"""Two classical dancers 
+759,A little girl wearing a white blouse is standing by books .
+760,"""An elderly woman sitting on a chair outside a door reading while wearing a bright floral dress 
+761,A middle-aged women in a black shirt speaks into a microphone .
+762,Woman in blue outfit and boots stands behind muddy Toyota truck with backpack near bushes .
+763,A man wearing a blue jacket looks at the camera .
+764,A female volleyball player is playing volleyball at the London Olympics .
+765,A child sitting on a carousel horse .
+766,Two oxen pulling a man through the muddy water .
+767,An old man holds up a small boy 's hands as the child prepares to swim .
+768,A public outdoor shopping area in a middle eastern country .
+769,A man sleeping on a couch on the side of the road .
+770,One black dog chases another on grass nearby a road that was recently snowed on .
+771,A little girl is holding a little boy on her lap .
+772,Young woman dressed in black looks over articles from a street vendor .
+773,A cyclist rides in front of onlookers dressed in white and red gear .
+774,A man and a dog who are both wearing sunglasses take a ride .
+775,A woman runs beside a concrete wall .
+776,A man performing a skateboard jump off the top of a ramp .
+777,A boy in blue shorts and a white shirt begins repelling down a rock .
+778,A group wearing red shirts is displaying numbers .
+779,The three man are playing a drum .
+780,A big white bird flies out of the water leaving a splash .
+781,Some friends enjoy each others ' company .
+782,A man in a green shirt has his hand on some tomatoes at a farmers market .
+783,A brown dog with a pink collar with a heart on it playing with a bigger dog .
+784,Six women displaying a flag .
+785,A mother is holding a child .
+786,Construction equipment and workers completing a task at night .
+787,A young girl riding a surfboard .
+788,"""Five snowmobile riders all wearing helmets and goggles line up in a snowy clearing in a forest in front of their snowmobiles ; they are all wearing black snow pants and from left to right they are wearing a black coat 
+789,A man in a military uniform training a dog in what appears to be a park .
+790,A woman in a city is looking behind her .
+791,The kids are riding bikes in the pile of dirt .
+792,A swimmer doing a flip in the air .
+793,A man in a blue shirt is performing maintenance on a window .
+794,A baby wrapped in a blanket sleeps .
+795,"""Two dogs are running 
+796,A man in a wheelchair wearing a brown jacket and holding a gray cane sits in front of some bushes and trees .
+797,Man in chair reading entertainment magazine .
+798,These three people are playing instruments while sitting in front of sheet music stands .
+799,A man in a construction vest is looking at a vehicle .
+800,A man in blue running across the street and avoiding traffic .
+801,a person is sliding down a brick rail on a snowboard .
+802,A young lady in gym attire is trying to reach the top of a wall that is covered in graffiti .
+803,Boy making a muscle holding paper that says Easter egg hunt .
+804,A boy and a girl are bending under a fence to look over a ledge .
+805,The game booths at a carnival are shown with a doughnut shop in the background .
+806,A person with an electric drill doing something to a toy animal .
+807,One man watching as two other men cross arms in a room of men attending a party .
+808,A hiker dressed in a blue with black jacket and tan pants surrounded by big trees covered in snow .
+809,A kid is running after an airborne soccer ball during a game in a sunny field .
+810,A snowboarder in the air as others watch .
+811,A person obscured in shadow in a gymnasium .
+812,A soccer player dressed in a red uniform goes up for a header .
+813,A person in red leaping from a ledge trying to touch the suspended red ball .
+814,Two dogs lying on their backs on the purple bed .
+815,A group of men happily survey the day 's catch of fish .
+816,The two young adults are playing on the chain play set .
+817,People are riding on a train .
+818,A girl in white boots holding an umbrella .
+819,A man is sitting on the roof .
+820,Two indigenous people wearing traditional costumes of reed hats and necklaces .
+821,Three men cleaning the windows of a business .
+822,A man in a red shirt is standing with two fitls in front of an old structure .
+823,A soccer game where everyone is standing around on the field .
+824,A young man and woman are standing close together in a shadow in an alley .
+825,A man jumps off of one rooftop onto another .
+826,A man posing in front of a bird cage .
+827,A man lies down on a couch that has been placed on the street .
+828,A young boy giving a thumbs up to the camera .
+829,A woman is sitting on a bench looking at her phone .
+830,"""A man with a beard sits with a guitar that 's opened up 
+831,An older woman wearing a blue shirt and white skirt is squatting down with two black cats and a multicolored cat in front of her .
+832,A family sits for a picture on a staircase outside .
+833,"""Two guys are in a gym 
+834,Construction workers are standing by a railway .
+835,Woman walks with red grocery bags down the cobble street .
+836,"""A guy in shorts 
+837,a black and white dog is catching a Frisbee
+838,Multiple people are sitting or walking near a carousel .
+839,Man and child watching a rodeo .
+840,A black dog walking along a rocky terrain .
+841,"""A girl hold up a red item 
+842,Two Orthodox priests stand on the steps outside a church .
+843,Young girl in red skirt jumping in water on a flooded street .
+844,many dogs jump over a fence .
+845,The man is performing a trick with a bicycle high in the air .
+846,A group of people enjoy food .
+847,A football player dressed in green and white advances the ball while watched by a defender in blue .
+848,a tan dog jumping over a goal net on a large grassy field
+849,Two women are communicating at a restaurant .
+850,A blond toddler with a ponytail rides a bucket swing .
+851,A woman wearing a floral necklace makes a drink and smiles .
+852,Amish guy plays golf and walks
+853,a baby sticking wheat grass into his mouth
+854,A young Hispanic woman in a pink tank top is painting .
+855,There are a group of people in a pool and they have scuba gear on .
+856,Two men are untangling their nets on the dock .
+857,A man in red and blue and a woman in purple standing on top of red sea-saws .
+858,People are waiting around at car show .
+859,A girl in a white dress high up hanging from straps .
+860,A hard working man speaks his mind into his megaphone .
+861,Football players in red congratulate each other as crowds in red cheer behind .
+862,A woman in a helmet hooking up to a wire .
+863,"""Three men are walking around in an open 
+864,Two young girls with dyed hair talk to two boys in black .
+865,A couple talks to a man sitting with a hammer dulcimer .
+866,Men play some type of sport on the field with what looks like hockey sticks .
+867,Three young children strike poses wearing Santa-hats in front of a Christmas tree .
+868,A group of children sitting on a white wall .
+869,A woman in a low cut blue shirt is in a crowded room that looks smokey .
+870,Two surfers are exiting the ocean while some other people are wading the surf .
+871,Two ladies are sitting and there are pulses around them .
+872,A young girl shines shoes while sitting on a bench .
+873,"""A man dressed in athletic gear and sunglasses sits in a boat 
+874,Young kids are on a small train ride .
+875,A little girl carefully holds a white porcelain bowl while vigorously scrambling eggs .
+876,Young adults looking out over the water with telescopes .
+877,People getting ready to see their next leader .
+878,People stand in the street outside of some tall cream colored buildings .
+879,Attractive military man with weapons and ammunition sitting on top of a netted armed vehicle .
+880,An Asian family prepares meat on skewers at a night market .
+881,Singer on stage attempts to get the crowd involved at a concert .
+882,A young child is sleeping on a chair .
+883,Four friends are participating in a parade .
+884,The dog leaps over the fence in the park .
+885,A brown dog and a black dog playing with a yellow soccer ball .
+886,An older man is drinking orange juice at a restaurant .
+887,A girl swims in the blue-green waters .
+888,Two men standing outside of a brick building .
+889,Two people standing on the sidewalk .
+890,People playing a game in the pool .
+891,Woman smiling and looking a man while he is looking in a book smiling .
+892,An old man plays guitar in front of a red bucket filled with money .
+893,An older man sitting in front of a car .
+894,A man pulls white bandages off the face of a man sitting in a chair .
+895,A man is remodeling a room and standing by a ladder .
+896,a man stands outside a bank selling watermelons .
+897,Two women in traditional Japanese clothing smile at the photographer .
+898,Three handicap bicyclist are racing against each other .
+899,A man is playing the guitar in front of a microphone while another man is in the background playing the drums .
+900,A family in a cold pool of water in the winter .
+901,A man wearing a white shirt and black pants balances at the top of a red ladder as it leans against a brick building .
+902,A baseball player hitting a ball .
+903,Two men and one woman are sitting in a subway train .
+904,A woman on a stage faces a packed audience of people .
+905,an older man is looking at a display of fire
+906,A man in red shirt is walking behind a couple and a girl with a white hat in the park .
+907,A woman sits alone at a carnival in a lift .
+908,A black man painted with gold gets his photo taken by a woman .
+909,A man in a black shirt prepares to play the drum .
+910,A man in a green shirt playing an acoustic guitar .
+911,An older woman is looking at herself in the mirror at a table with cosmetics .
+912,A man standing on a ladder talking to another man who is hanging out of a window .
+913,A man helps a little boy climb to the top of a pole on a jungle gym .
+914,"""Two men making faces and drinking beer from glasses 
+915,The hiker nears a creek .
+916,A person on a dirt bike is in the air .
+917,An old Indian man dressed in rags sleeps on the ground using his backpack as a pillow .
+918,A group of people are riding on a train .
+919,A group of people are surrounding a person who is lying down .
+920,A small brown dog runs through the grass in front of another dog and their owners .
+921,A boy is about to lie in the green grass .
+922,A woman in a gray shirt and plaid shorts swings gleefully on a tire swing with trees in the background .
+923,A woman in a gold jacket and two other people playing instruments .
+924,Several adults and children rioting for smaller class sizes .
+925,"""Two uniformed police officers are holding large guns 
+926,Asian people are standing in front of a vegetable market .
+927,A woman is standing in a street pointing to hats on a table next to a little girl .
+928,A woman in a grassy field blows on a dandelion .
+929,An audience watches as a large man is about to crush something with a rubber mallet .
+930,"""A young girl is lying on a rug 
+931,People jogging together on a park sidewalk .
+932,A person driving a green motorcycle
+933,The man with the guitar case smiled at the other man .
+934,"""One woman is sitting under a loom 
+935,One child with a colourful toy and another child reaching up .
+936,A yellow dog with a red bandanna fallen through the crust of the snow .
+937,Four men in Revolutionary War era costumes face a crowd .
+938,A group of men sits around a table .
+939,"""A runner 
+940,"""two metal cages 
+941,A man is leaning on a racing motorcycle .
+942,A bartender with an eyebrow ring is pouring a drink .
+943,Three children playing with a ball on a beach .
+944,The black dog is wearing a blue jacket and playing with a toy .
+945,A blond child sliding down a metal slide .
+946,Two young children are playing with a bubble-maker .
+947,Little girl and little boy riding scooters down pathway .
+948,People milling around outside a european cafe .
+949,"""Young adults are seated at a restaurant table 
+950,A man is pouring a liquid into a bowl .
+951,"""Two teenage girls dance in pajama bottoms 
+952,A blond girl in plaid shorts is driving a bearded man around the city in a bicycle taxi .
+953,A large picture of a face with people sitting in front of it and other children wading in the water .
+954,A swimmer performs the butterfly in a swimming pool .
+955,FireFighters monitoring a cave fire .
+956,"""Young 
+957,A female dancer wearing all white dancing while a photographer wearing all white takes her picture .
+958,A group of hiking among the tall trees .
+959,A young child in a jacket and a hat sleeping .
+960,A man taking a snooze on a crosswalk .
+961,toddlers playing with toys .
+962,"""A boy 
+963,A young brunette stands among a flock of pigeons .
+964,A man performs outside on cobblestone at night with his acoustic guitar under a giant orange Jagermeister banner .
+965,"""Two men are talking on the street ; one is pointing at a sign that says """" Jesus or Hell """" beneath a red box 
+966,Two women and one man skipping or dancing down a road while onlookers watch .
+967,Many flags at full mast with people at the base .
+968,Two men are riding a blue and orange boat .
+969,A bunch of little kids are playing soccer .
+970,A seven fisherman cautioning the fish .
+971,A woman is standing at a counter that is holding buckets of flowers .
+972,"""A child and a dog walking down the street 
+973,This is the image of two Asian men squatting near a mop-pad .
+974,A man and a woman sit on a deck under a blue sky that is about to be overtaken by tumultuous clouds .
+975,Local people commute through a bazaar that sells etiquette specific to the town 's culture .
+976,"""Police in riot gear 
+977,Asian woman with sunglasses holds her white kimono up .
+978,A beautiful scenic hiking area with backpackers and an older couple sitting on a rock resting .
+979,A man planting some flowers around a pole outside .
+980,A child laying on their stomach at the bottom of a slide looks up .
+981,"""three women 
+982,A team on a soccer field .
+983,Three girls pile on top of each other on the concrete .
+984,A man and woman watching a sports event in a stadium .
+985,A blond-headed child holding a red broom .
+986,"""A man sitting on a couch holding a baby 
+987,Man rides a bike past an old baseball field
+988,A group of children are playing with bubbles outdoors .
+989,A young colored boy crying while on the skateboard .
+990,A group of military men walking through town .
+991,Stevie Wonder is performing on stage at one of his many wonderful concerts .
+992,Native Americans in decorative dress appear to be celebrating for a cause .
+993,indian ladies dancing in front of crowd
+994,Woman and child outside the front door of their scenic home .
+995,A barefoot young child in a white tee-shirt is climbing a skate park wall .
+996,A young cowboy is mesmerized by the presence of a camel .
+997,Three asian female pedestrians on a city street after going to a Starbucks at one point .
+998,A crowded street with pedestrians being directed by police and barriers .
+999,Three surfers walking down a beach .
+1000,"""A clown in a red and green shirt 
+1001,A picture of a person on a skateboard.
+1002,a full size dog is smelling a bat on a ballfield.
+1003,a bed room with a neatly made bed with night stands
+1004,A yellow bus that says 103 Roja on the front
+1005,A brown cow grazing on grass on a mountain.
+1006,A toaster with a face on it with spoons.
+1007,A plate of two slices of pizza and a cup of juice.
+1008,there is a woman sitting outside writing and drinking coffee
+1009,A white teddy bear sitting on top of a trash can.
+1010,there is a man sitting around many birds
+1011,A bathroom looks clean but is missing tile at the shower stall.
+1012,The large lizard is on the steps near the birds.
+1013,Bathroom stall with green door in commercial business.
+1014,Three giraffe's leaning over to get a sip of water.
+1015,A women in a blue shirt cuddles up with her cat
+1016,A woman carrying a surfboard on the shore of the beach.
+1017,a urinal hanging on a wall in between two stalls
+1018,A man kneeling down in front of a refrigerator.
+1019,a woman standing while looking at her cell phone
+1020,A man wearing a jacket and  a bow tie.
+1021,a close up of a piece of cake on a plate
+1022,Automobiles stopped at an intersection because of a passing train.
+1023,a young kid with a baseball bat gets ready for the pitch
+1024,A person jumping a horse over an obstacle on a course.
+1025,Small children in green uniforms running on a soccer field.
+1026,Panoramic image of zebras grazing and lying in a field.
+1027,a brown gray and black bird sitting on a branch
+1028,A dog is in the grass with a frisbee in its mouth.
+1029,A piece of cake sitting on top of a blue and white paper plate.
+1030,People walk down a crowded street at a festival
+1031,A woman sitting on a wooden bench next to a rock wall.
+1032,A dog herding a group of sheep in a meadow
+1033,Several laptop computers and electronic devices on a desk.
+1034,A woman in a coat and cat is towing luggage through an airport.
+1035,A large orange and white kite flying in a blue sky.
+1036,A person walking down a street past a teddy bear sign.
+1037,A giraffe walking near a tree with very few leaves.
+1038,a bench that has many colors on it
+1039,a brown bear is lying asleep in a hammock
+1040,A women sitting down on a couch playing the wii .
+1041,There is an old multi colored volvo parked next to a motel
+1042,Various fruits and vegetables are on display close together.
+1043,A man taking a picture of himself in a mirror.
+1044,Giraffe from the zoo staring into the distance.
+1045,The sheep gathered in the meadow wait to be told where to go
+1046,The man is standing on a bed playing guitar.
+1047,Person holding on to a video game remote while using a computer mouse with other hand
+1048,A couple of people with a laptop at a table.
+1049,A large modern kitchen has pineapples on the counter.
+1050,Closeup picture of the front of a clean motorcycle.
+1051,two boys caring a big kite type of thing
+1052,a banana and a chocolate frosted donut sitting in a baggie
+1053,Two surfers are riding a wave on their surf boards.
+1054,A STREET WITH A BUNCH OF CARS ON IT
+1055,The batter is going to hit the ball in the baseball game.
+1056,A gray and white cat standing on a lush green field.
+1057,A view of a small laptop with a mouse next to it.
+1058,A black cat sits in a white bathroom sink.
+1059,Laptop computer with wireless keyboard and mouse on table.
+1060,A motorcycle and a vintage Mustang car parked at a curb.
+1061,A mural of people are on a yellow tile wall.
+1062,A picnic table sitting next to a tree.
+1063,Two jumbo jets are driving on the runway of an airport.
+1064,A person cutting a multi layer cake with a knife.
+1065,A parasailer in the distance with two surfers in the foreground.
+1066,Several people in a green field flying kites.
+1067,A man with a helmet on riding on an electrical skateboard.
+1068,The man is practicing his moves on his skateboard.
+1069,"A man and his dog in a boat
+1070,A woman that is bent over on a counter.
+1071,Two giraffes inside of a cage at the zoo.
+1072,A train as it travels down the tracks over a bridge.
+1073,A zebra standing in a field of grass outside.
+1074,A man holding holding a giant remote control.
+1075,A blue piece of luggage sitting on the side of  a road.
+1076,A pro plane and a jet play flying close to each other in the sky.
+1077,a bowl of tomato soup with two grilled cheese sandwiches on a plate
+1078,THERE IS AN IMAGE OF A LIVING ROOM WITH A WINDOW VIEW
+1079,Slices of meat pizza with a shot glass of mustard
+1080,three birds perched and one flying towards the viewer
+1081,A young man is in blue and white playing tennis.
+1082,A sign with a trailer at the corner of East St. and East St.
+1083,A city filled with lots of vehicles and pedestrian traffic.
+1084,there are many people that are sitting on top of a hill
+1085,A one way sign and two other signs mounted to a pole
+1086,A boy sliding down a waterslide at a waterpark.
+1087,A vehicle and a motor bike on the beach.
+1088,"Two white passenger trains are parked on the tracks
+1089,Green stop lights are set against a tall building.
+1090,A makeshift bedroom is decorated in plastic and cardboard.
+1091,A bathroom with a white sink and a towel rack.
+1092,Two cats laying together on a bed or floor
+1093,"A hotel room bed with white linens
+1094,"A picture of an old
+1095,Two twin beds with no comforters on them.
+1096,A giant cruise ship next to another giant cruise ship next to a long pier.
+1097,a big plate with some potatoes and meat on it
+1098,Cat sitting on cabinet in front of large screen television.
+1099,Some wooden objects and beads in a display case.
+1100,Two kids hanging out playing video games on folding chairs.
+1101,The Fort York Blvd. sign is very close to the stop sign.
+1102,A group of people on slope with snowboards and skis.
+1103,three people sitting at a table with their cellphones
+1104,A cat laying on a toilet seat with its paws inside .
+1105,A person skis through some trees down a hill
+1106,Old wooden wagon with banana bunches on it
+1107,A child in front of a well stocked refrigerator.
+1108,"A rural road with three octagonal signs
+1109,A picture of a horse taken through a circular window
+1110,"Three plates
+1111,A brown and white animal laying on top of a bed.
+1112,A large green field with a bench in the foreground.
+1113,Teddy bears sitting around a table and a christmas tree
+1114,Two men working on and repairing a toilet
+1115,Large stuffed bear sitting outside of a building.
+1116,People are riding horses next to the trees.
+1117,A scone with an orange slice on a plate
+1118,A dirty floor and wall with a black kit going into a trap door.
+1119,A woman stands near a humorous parking sign.
+1120,ships in the distance behind a grassy marsh with egrets
+1121,"An old
+1122,A small boat makes its way across the water on an overcast day.
+1123,An elephant drinking water in an enclosure at a zoo.
+1124,Two elephants touching each other with their trunks and tusks.
+1125,three men riding horses through a grassy field
+1126,A woman getting ready to eat a pizza on the table.
+1127,Man in shirt and tie leaning back in chain in office.
+1128,A police officer riding a bike in the street.
+1129,a snowboarder in a black jacket is doing a trick
+1130,this is a cat sitting on a white bed
+1131,A cat watches as its owner uses the laptop.
+1132,Two people in a commercial kitchen making pizza.
+1133,There is a male tennis player that is going to serve the ball
+1134,Three people are skiing on the snowy mountain.
+1135,A picture of someone in the TV on the wall.
+1136,A green bench sitting on the side of a sidewalk.
+1137,a black train is coming down some tracks
+1138,A man takes a pictures of himself in a mirror.
+1139,"Various fruits packaged
+1140,A man is looking at himself in the mirror.
+1141,Two zebras are battling each other on hind legs.
+1142,A fire hydrant in a grassy field next to a bush
+1143,A photograph of a highly decorated parking meter.
+1144,a couple of women are talking on their cellphones
+1145,Two giraffes looking at the other animals in the enclosure.
+1146,a small party of people eats some pizza on a table
+1147,A boy on a skateboard rail on a skateboard
+1148,a baseball player swinging a bat at a ball
+1149,A serving slice of cake on a table.
+1150,A black motorcycle parked on a brick walkway
+1151,A train is making its way down the tracks.
+1152,a bunch of bikes are lined up on a curb
+1153,Women worker looking at rear view mirror smiling
+1154,Group of men sitting on bicycles watching a show on stage.
+1155,people standing on a platform next to a train at night
+1156,A beautiful dessert waiting to be shared by two people
+1157,a bunch of giraffes are in a large pin
+1158,A man is about to serve a tennis ball.
+1159,There are two people posing and one man is holding a banana
+1160,Two stuffed bears are positioned at a table with a jar of honey
+1161,A picture of a women sitting on a motorcycle with a side car with a desert background of hills.
+1162,A desk with two monitors depicting security cameras.
+1163,A man that is surfing in the water.
+1164,A cat resting on top of a laptop computer.
+1165,Diners in a restaurant sit at a long table.
+1166,Some cars on the freeway are exiting onto Sunset Blvd.
+1167,a chicken meal with carrots broccoli and rice
+1168,A metal clock tower on a sidewalk in front of a bulding.
+1169,A small white dog stands on a wooden bench.
+1170,hotdog on bun with what looks like horseradish sauce
+1171,There is a street sign on the corner by a building.
+1172,A long-haired cat sits on a window sill and stares outside.
+1173,Crown marching in one direction in a lightly attended protest.
+1174,A stove that has a spice rack next to it.
+1175,The locomotive of a train is painted yellow.
+1176,A dog sitting in a pile of bedding and other stuff.
+1177,A cat sitting of a TV on top of a TV stand.
+1178,A couple of people are riding horses on the beach
+1179,Young children are at the beach flying a toy story kite.
+1180,A fire hydrant in the middle of the street curbside
+1181,Young people dressed in costume carry black umbrellas.
+1182,a man is seen holding a very old cellphone
+1183,A metro style train engine passing under a bridge.
+1184,A red fire hydrant is on the brick sidewalk.
+1185,a person on skis with ski poles standing at the top of a hill
+1186,A castle is shown on the water next to a bridge.
+1187,A man on his phone is on a red bench.
+1188,A bird is sitting on a railing next to a potted plant.
+1189,two men walking down a city streen next to a blue pole.
+1190,A marble table with white plate holding a pizza.
+1191,many kites flying in the sky with cars parked
+1192,A cat lying on a suit case and looking alertly.
+1193,A blue colorful kite flying through the gray sky.
+1194,A computer mouse is beside a notebook computer.
+1195,Two boys sit on chairs and play video games.
+1196,Those look like remote or game controls in their hands.
+1197,The luggage suitcases with tags on them are stacked near one another.
+1198,A person is surfing in a wave pool.
+1199,A white plate topped with a banana and pudding.
+1200,Red fire hydrant on a curb by a street.
+1201,A woman on skis standing sideways in the snow.
+1202,A woman is brushing her teeth and posing for a picture.
+1203,a man in a baseball uniform standing with his mit on
+1204,A young child is sitting in the snow
+1205,A plastic horse standing on top of a chair.
+1206,Soccer players try to gain possession of the ball.
+1207,two shorn sheep walking between some bushes
+1208,Guy falling off his surfboard after losing battle with the wave
+1209,Sepia photograph of three elephants in a pen.
+1210,The two teams are kicking a soccer ball.
+1211,Many tourists riding on elephants in a river
+1212,A bed sitting next to a night stand and a table and chairs.
+1213,A teddy bear couple sit on a couch together.
+1214,A man is holding a toothbrush and a paper bag while seated.
+1215,A cat is sitting in a small bowl on the table.
+1216,"Compact bathroom area
+1217,The cord and warning label on a hair dryer.
+1218,"A bathroom with a sink
+1219,A chair with a lot of stuffed animals on it sitting beside a small table.
+1220,A biilboard with a railcar in front of it.
+1221,A man in a red shirt tossing a white frisbee.
+1222,A man walks his dog down the sidewalk.
+1223,a green vase with some flowers and greenery
+1224,Something knitted is lying on top of a laptop.
+1225,a white polar bear is laying down in its pen
+1226,bright red microwave sitting on the kitchen counter
+1227,THERE ARE A LOT OF SHEEPS WALKING THE FIELD
+1228,a man on his phone in some kind of room
+1229,A baseball player pitching a ball on top of a field.
+1230,"A large
+1231,A man cooking hot dogs with a light colored jacket on
+1232,Buses parked on a road outside a large bus station.
+1233,Two Halloween characters next to a pizza on a table.
+1234,A skateboarder is performing a tick in a skate park.
+1235,A yellow bird stands perched on a tree branch.
+1236,a boat with some people on it drive through a water way
+1237,A large batch of pineapples stacked up next to each other.
+1238,A couple of cows standing next to each other near a street.
+1239,two public transit buses on a city street
+1240,Small children standing around a small white sheep.
+1241,a table that has some food on top of it
+1242,two giraffe are standing  and the other animals are walking
+1243,"A pear
+1244,an image of a very old fashioned living room
+1245,there is a large bowl with vegetables and broccoli in it
+1246,some people are looking at different television sets
+1247,a boy making a face while running to get his kite in the air
+1248,A close up of two pastries and a cup of coffee.
+1249,A wedding cake sitting on a table with flowers
+1250,A large open area with concrete floor and a McDonalds in the background with Chinese writing on the building.
+1251,two women and two men smiling over a pizza
+1252,THERE IS A BATHROOM WITH A SINK AND A MIRROR
+1253,There is a person in the picture by itself.
+1254,Several skiers are on the side of a steep slope.
+1255,Something that looks like a parking meter painted yellow on a sidewalk.
+1256,A person standing in a room near a tennis racket.
+1257,A drooping pink and white flower with green leaves.
+1258,A female tennis player prepares to swing at a tennis ball.
+1259,A couple of dishes are sitting on a stove.
+1260,A bunch of brown signs on a pole.
+1261,Two empty toilet paper roll holders hang in the stall while the empties lay around and a nice roll sets on the bar.
+1262,A black sculpture of a torso is on the floor next to a TV.
+1263,A large teddy bear sits in front of the store.
+1264,a hot dog on a plate next to two glasses.
+1265,A cow that is leaning under a metal wall.
+1266,A chair and luggage sitting at a railing on the water.
+1267,A pile of luggage sitting up against a white fence.
+1268,a bike leaning on a door of a building
+1269,A person with a rainbow umbrella looking at the ocean
+1270,A tennis player is attempting to hit the ball.
+1271,People on the beach watching the parasailing in the water
+1272,A baby elephant standing at the feet of its chained parent
+1273,a close up of a cat laying on a desk near a keyboard
+1274,A group of zebras standing and grazing in a grass field.
+1275,A cat that is checking into its Twitter account to post a tweet.
+1276,A medium sized red boat going down a waterway.
+1277,A bathroom being renovated with pipes in the wall
+1278,A man riding a skateboard down a street next to parked cars.
+1279,A Tenn player that is returning a tennis ball back to his opponent.
+1280,A large long train with man inside on the track.
+1281,A giraffe standing by a pair of skinny trees.
+1282,"A living room with sofas
+1283,A small bathroom is in the middle of a renovation.
+1284,a man taking a picture of a narrow walkway
+1285,A cat lying down in a sink in a bathroom.
+1286,A picture of a dog laying under a table on the rug.
+1287,Couple on sailboat with dog on open waters.
+1288,A person in a black snow suit on a pair of skis in the snow.
+1289,Horses communing with each other on a shady street.
+1290,an image of a stuffed teddy bear sitting up
+1291,A white table topped with cakes and nuts.
+1292,Four people enjoying a meal are posing for their picture.
+1293,Male surfer in the water doing tricks on his surfboard.
+1294,Two Asian women eating chili dogs while standing on a street.
+1295,A black cat sitting on top of a bathroom sink.
+1296,A view of a modern building with skylight and a fire hydrant.
+1297,A small bathroom with old toilet and tub
+1298,A blue plate with a green salad on top of it.
+1299,a female sitting in a bed with the lights off working on a lap top computer
+1300,open oven door with metal pie plate of spilled food
+1301,A red headed doll sitting next to a clock.
+1302,a double decker bus with people waving from the top
+1303,a person is skiing with a bunch of flags around
+1304,A cow standing next to a white wall and bright blue door.
+1305,Multiple orange train engines on tracks with trees on each side.
+1306,A subway train that is passing over a train bridge.
+1307,The model toys are positioned on the table.
+1308,A baseball player at bat during a baseball game.
+1309,A Frisbee golf net in a park with several Frisbee in it.
+1310,A man standing next to a woman in a living room.
+1311,A brown crust of pie with strawberry filing.
+1312,A street sign with flags and a high rise building in the background.
+1313,A large plane with two propellers  on it
+1314,Suitcase sitting on the ground with stickers from various countries on it.
+1315,A small boy skiing down a snowy hill
+1316,A bunch of images of some tasty looking food.
+1317,A double decker bus sitting on a green field.
+1318,A dark  colored poodle is tied to a post on a sidewalk.
+1319,A white bed topped with lots of pillows and a wooden headboard.
+1320,a big brick building with a clock at the top
+1321,a baseball pitcher is throwing the ball
+1322,A bike lane with a bike lane symbol painted on it.
+1323,Two bench's sitting on the ground near a fence.
+1324,A plane flies over the hills above a developed shoreline.
+1325,a plate of broccoli on a table next to some other plates of food
+1326,A man is feeding birds from a park bench
+1327,An airplane leaving a trail in the sky.
+1328,a big bird that is flying over some sand
+1329,A flock of birds flying over the ocean next to a beach.
+1330,A man in black shirt doing a trick on a skateboard.
+1331,a big truck going around a  curb
+1332,Some cooked breads are on top of a plate.
+1333,Seven pieces of orange peel on a white plate.
+1334,A group of people in blue jackets boarding a long white bus.
+1335,A pitcher holds his arm far behind him during a pitch.
+1336,The small maroon car drives near two large trucks.
+1337,An umbrella is placed outside of a shop.
+1338,Two giraffes are standing next to a building.
+1339,THERE IS AN ADULT CAT SITTING ON THE LAP TOP
+1340,A tour group is guided through a museum.
+1341,A man sitting in the back of a truck.
+1342,A bowl of food sits prepared with eating utensils.
+1343,An cat sits on the sill of a dilapidated window.
+1344,A display of healthy vegetables on a stand
+1345,"A meal with a cheesy sandwich
+1346,a couple of women sitting outside in a court yard
+1347,a surfer in a white shirt  surfing on a sunny day
+1348,A young girl rides her horse in the middle of a course.
+1349,A desk with two computer monitor and a keyboard sitting on it.
+1350,"A pineapple next to some oranges
+1351,little boy in stripped shirt holding donut in hands
+1352,A bird perched on top of a tree branch in a tree.
+1353,"A modern
+1354,A woman is posing next to a red motorcycle.
+1355,A surfer in a wetsuit sliding through the water.
+1356,A television is reflected from a bathroom mirror.
+1357,Two people standing on a sandy beach flying a kite.
+1358,"A dog sitting inside a cage
+1359,Skier in a black going down the side of a mountain.
+1360,A couple of men standing on either side of a surfboard.
+1361,A MAN IS  PLAYING TENNIS ON THE TENNIS COURT
+1362,Blue and yellow train at a train station in front of a bench.
+1363,A man that is sitting at a desk with a pen and laptop.
+1364,A desk with several monitors under it and two computers and a laptop on top of the desk.
+1365,Children in green jerseys play soccer at the park.
+1366,A train rides on a bridge past a building.
+1367,A person walking down a street in front of a building.
+1368,a group of kids playing soccer in a field
+1369,A white care is sitting in a handicapped parking spot.
+1370,A large pretty brick building with a small blue sign on it.
+1371,two signs that are advertising a mexican restaurant.
+1372,A person helping a child stand on a skateboard.
+1373,a red fire hydrant near a dirt road with trees in the background
+1374,The airplane is flying near a cloud in the sky.
+1375,A refrigerator in the kitchen is covered with a multitude of magnets and pictures.
+1376,A dog with its face resting on the side of a boat
+1377,A guy is jumping to catch a frisbee in tall grass.
+1378,a surf board in the sand near a body of water
+1379,A large metal clock on a pole outside.
+1380,A large gray elephant standing on a pool of water.
+1381,The food is prepared on the dish on the table.
+1382,A cat on a desk next to a keyboard and computer
+1383,Several train tracks with a train on the far tracks.
+1384,A group of people standing with remotes in hand.
+1385,A tall clear glass window with two cats sitting at the base of it.
+1386,A man driving an antique truck on a grassy field.
+1387,"A decorated
+1388,The man and woman are playing a video game.
+1389,A lady is sitting on a bench barefooted while using her phone.
+1390,A couple of women and one man kneeling down before two horses.
+1391,A passenger train that has some graffiti on it.
+1392,A woman holding a tennis racket over her shoulder.
+1393,Group of small children running down the field playing soccer.
+1394,a man wearing a hat holding a dog wearing a hat
+1395,Firefighters and three firetrucks are parked on a street.
+1396,The look on the tennis player's face telegraphs a  possible error.
+1397,A sink in a bathroom is shown with other items.
+1398,A woman in black riding a horse by a mirror.
+1399,"An empty bus has tartan seats
+1400,A motorcycle with its brake extended standing outside
+1401,A man wearing sunglasses getting ready to ride a skate board.
+1402,A person riding a snow board while flying through the air.
+1403,A kitchen and dining area in a house with an open floor plan that looks out over the landscape from a large set of windows.
+1404,An empty kitchen is photographed as if for a real estate listing.
+1405,A stable full of lambs standing and laying around.
+1406,Red double decker bus with people standing on top.
+1407,A microwave sitting on top of a wooden shelf.
+1408,Two men smiling and wearing yellow jackets behind construction markers.
+1409,A train traveling down tracks net to a  bridge.
+1410,A man swinging a baseball bat on a field.
+1411,"A group of men traveling on horses in the water
+1412,"A desk with a keyboard
+1413,a miniature horse walking near a restaurants outside deck
+1414,"The chair
+1415,A glass bowl contains peeled tangerines and cut strawberries.
+1416,There is a phone on top of a calculator
+1417,Three people stand near a street sign and a traffic light.
+1418,A large yellow kite is flying over a park in the daytime.
+1419,The man with the black sweatshirt carries a wooly sheep.
+1420,A baby giraffe and a baby zebra stand near a green hut.
+1421,a road with some trees on both sides of it
+1422,Two photographs of a man in black shirt riding a skateboard.
+1423,an image of a man riding the ocean waves on his surfboard
+1424,a small television in front of a bookshelf
+1425,A plant in a garden near a white building.
+1426,A woman stands next to a traffic light.
+1427,A man lighting candles on a birthday cake for a little girl.
+1428,A sign is seen posted above a toilet.
+1429,The woman is riding a bike in a dress.
+1430,An airplane makes its way down a snowy runway.
+1431,A distorted image shows street signs and a desert.
+1432,a blue rubbish removal truck and two vehicles behind it
+1433,A man with a cowboy hat on doing a trick on a skateboard.
+1434,Horse drawn carriage in wide open field with old fashioned clothing
+1435,A giraffe stands in the middle of a sandy area.
+1436,a man is riding a surfboard at the beach
+1437,A clock that is at the top of a pole.
+1438,A group of birds in a bunch of puddles.
+1439,A group of zebras standing on a field next to a fallen tree.
+1440,Three beautiful young ladies eating one slice of pizza.
+1441,Some children who are playing video games together.
+1442,A baby with food on her face and her tongue sticking out.
+1443,A herd of elephants cross a shallow river.
+1444,A line of cars that are next to a large boat.
+1445,Long dining room table filled with people in dress clothing.
+1446,A stop sign sits at an intersection in a city at night time.
+1447,A casserole covered in foil is inside an oven.
+1448,Four bottles sit in an otherwise empty refrigerator.
+1449,a pizza with meat and red peppers and Parmesan cheese
+1450,A yellow fire hydrant by a wall and a sign
+1451,A man is on a channel boardwalk by a lighthouse.
+1452,The teddy bear is all chained up on the bed
+1453,A group of sheep standing next to each other on a field.
+1454,"A view of a large
+1455,a cat that is looking into a window
+1456,a close up of a person standing wearing a suit and tie
+1457,A white bath tub sitting under a window in a bathroom.
+1458,A lone motorcycle parked in parking space at night.
+1459,THERE IS A MAN THAT IS LOOKING OUT OF THE WINDOW
+1460,A desktop with two computers and fruit on it.
+1461,Two motorcycles going through the tunnel at night.
+1462,Girl trying out a game at a trade show.
+1463,a small plane taking off from a run way in mid air
+1464,A man in red jacket on skis with trees in background.
+1465,People walking and holding ski boards on snow covered ski slopes.
+1466,Two sheep lying in green grass have a surprised look for the camera.
+1467,A living room set is displayed next to a large window with a view of a wooded area.
+1468,There are two giraffes walking near some tall grasses.
+1469,A boat sits on the side of the dock.
+1470,A smiling skier poses in the snow before making her run.
+1471,A purple train with a yellow front is under neath an over path.
+1472,A man standing on a snowboard on a mountain peak.
+1473,Young male boarding a city bus at a bus stop.
+1474,A man standing next to a beautiful woman in a short blue skirt facing the crowd.
+1475,Small parking lot of cars in front of a stone building.
+1476,The oranges are picked to make fresh jams.
+1477,A woman sitting on a train is showing off a bagel.
+1478,a young man in a red shirt is playing tennis
+1479,The skiier easily and skillfully jumps the small mogul.
+1480,A motorcycle is displayed in an entryway which is covered in graffiti.
+1481,A bird walking on a tiled floor in a cafeteria
+1482,A couple of people standing cutting a cake.
+1483,there are many different bikes that are on display
+1484,An all white bathroom consisting of a mirror and sink view.
+1485,a bench with a statue stting on one side of it
+1486,Computer desk with laptop open on it with pictures on wall
+1487,A fire hydrant with frozen water coming out of it.
+1488,white cabinets silver oven sink and  refrigerator
+1489,There is a sink and a black and white toilet
+1490,A man that is standing on a surfboard in the water.
+1491,Horses are standing in an open field in the grass.
+1492,A table topped with a plate of food next to eating utensils.
+1493,Two men ride bikes next to the cars in the street.
+1494,A skateboarder mid-air above a building covered in graffiti.
+1495,a man swings a baseball bat at a ball
+1496,The door of a closet is open with towels in it.
+1497,A empty bench is located next to the water of a harbor.
+1498,A flat screen tv on a wooden tv stand.
+1499,A woman sits in one of the easy chairs in the big living room.
+1500,The room has a flight of steps near the couch and television.
