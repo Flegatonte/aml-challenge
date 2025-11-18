@@ -63,7 +63,7 @@ this automatically populates:
 
 data/train.npz
 data/test.clean.npz
-data/test_captions.txt
+data/captions.txt
 
 ### setup
 git clone https://github.com/Flegatonte/aml-challenge.git
